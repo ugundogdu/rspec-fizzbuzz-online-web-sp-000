@@ -5,6 +5,7 @@ def fizzbuzz(int)
     "Buzz"
   elsif int % 15 == 0
     "FizzBuzz"
+    (fizz_15) .to eq("FizzBuzz")
   end
 end
 
