@@ -1,6 +1,6 @@
-def fizzbuzz(int)
+def fizzbuzz(int) = ("Fizz")
   if int % 3 == 0
-    puts (fizz_3) .to eq("Fizz")
+    puts "Fizz"
   end
 end
 # Don't forget! This file needs to be 'required' in its spec file
