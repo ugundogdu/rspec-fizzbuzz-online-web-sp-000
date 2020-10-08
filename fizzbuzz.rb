@@ -1,4 +1,4 @@
-def fizzbuzz(3) == fizz_3
+def fizzbuzz( )
 
 end
 # Don't forget! This file needs to be 'required' in its spec file
