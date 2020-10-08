@@ -1,6 +1,6 @@
-fizzbuzz(3) == "Fizz"
+fizzbuzz(int) == "Fizz"
 def fizzbuzz(3)
-  if 3 % 3 == 0
+  if int % 3 == 0
     puts "Fizz"
   end
 
