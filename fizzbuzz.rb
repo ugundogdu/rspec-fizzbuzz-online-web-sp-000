@@ -2,7 +2,7 @@ fizzbuzz(3) == "Fizz"
 
 def fizzbuzz(3)
   if 3 % 3 == 0
-    puts "Fizz"
+    puts fizz_3 = fizzbuzz(3)
   end
 
   fizzbuzz(3)
