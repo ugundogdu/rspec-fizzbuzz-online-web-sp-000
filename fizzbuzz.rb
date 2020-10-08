@@ -1,6 +1,6 @@
 def fizzbuzz(int)
   if int % 3 == 0
-    puts "Fizz"
+    fizzbuzz(int) == "Fizz"
   end
 end
 # Don't forget! This file needs to be 'required' in its spec file
