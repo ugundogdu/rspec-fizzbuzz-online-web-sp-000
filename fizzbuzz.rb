@@ -1,6 +1,6 @@
-def fizzbuzz(int) 
-  if int % 3 == 0
-    puts "Fizz"
+def fizzbuzz(number)
+  if number % 3 == 0
+    fizz_3 = fizzbuzz(3)
   end
 end
 # Don't forget! This file needs to be 'required' in its spec file
